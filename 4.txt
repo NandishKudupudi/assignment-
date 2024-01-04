@@ -1,0 +1,2 @@
+output:first charater 1
+       second charater 49
